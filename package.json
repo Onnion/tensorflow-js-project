@@ -1,0 +1,23 @@
+{
+  "name": "tensorflow-js-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Onnion/tensorflow-js-project.git"
+  },
+  "author": "Onnion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Onnion/tensorflow-js-project/issues"
+  },
+  "homepage": "https://github.com/Onnion/tensorflow-js-project#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.11.7",
+    "@tensorflow/tfjs-node": "^0.1.7"
+  }
+}
